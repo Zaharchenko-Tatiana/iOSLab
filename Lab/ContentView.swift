@@ -6,6 +6,7 @@ struct ContentView: View {
             Header()
             Card()
             Search()
+            Buttons()
         }
         Spacer()
         }
