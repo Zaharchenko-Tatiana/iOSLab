@@ -13,9 +13,9 @@
 		8F45E01D2B0E316D00A6ED66 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F45E01C2B0E316D00A6ED66 /* Preview Assets.xcassets */; };
 		8F45E0252B10C49200A6ED66 /* Font_text.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F45E0242B10C49100A6ED66 /* Font_text.swift */; };
 		8F6D1C4A2B13599F00898A17 /* Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6D1C492B13599F00898A17 /* Search.swift */; };
-		8F6D1C4E2B13617100898A17 /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6D1C4D2B13617100898A17 /* Buttons.swift */; };
 		8F73DD922B1330F000B6C6C1 /* Header.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F73DD912B1330F000B6C6C1 /* Header.swift */; };
 		8F73DD942B134E5600B6C6C1 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F73DD932B134E5600B6C6C1 /* Card.swift */; };
+		8F7BD82D2B13AB04001F59B8 /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7BD82C2B13AB04001F59B8 /* Buttons.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,9 +26,9 @@
 		8F45E01C2B0E316D00A6ED66 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8F45E0242B10C49100A6ED66 /* Font_text.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Font_text.swift; sourceTree = "<group>"; };
 		8F6D1C492B13599F00898A17 /* Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Search.swift; sourceTree = "<group>"; };
-		8F6D1C4D2B13617100898A17 /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
 		8F73DD912B1330F000B6C6C1 /* Header.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Header.swift; sourceTree = "<group>"; };
 		8F73DD932B134E5600B6C6C1 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		8F7BD82C2B13AB04001F59B8 /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,7 +93,7 @@
 				8F73DD912B1330F000B6C6C1 /* Header.swift */,
 				8F73DD932B134E5600B6C6C1 /* Card.swift */,
 				8F6D1C492B13599F00898A17 /* Search.swift */,
-				8F6D1C4D2B13617100898A17 /* Buttons.swift */,
+				8F7BD82C2B13AB04001F59B8 /* Buttons.swift */,
 			);
 			path = Function;
 			sourceTree = "<group>";
@@ -168,7 +168,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8F6D1C4E2B13617100898A17 /* Buttons.swift in Sources */,
+				8F7BD82D2B13AB04001F59B8 /* Buttons.swift in Sources */,
 				8F73DD922B1330F000B6C6C1 /* Header.swift in Sources */,
 				8F45E0252B10C49200A6ED66 /* Font_text.swift in Sources */,
 				8F73DD942B134E5600B6C6C1 /* Card.swift in Sources */,
