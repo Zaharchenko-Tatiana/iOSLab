@@ -5,6 +5,7 @@ During the work, some of the screen components that were given in the task were 
 
 
 Also added buttons that can be clicked:
+
 ![1](https://github.com/Zaharchenko-Tatiana/iOSLab/assets/115603644/4efcb89e-1b91-4386-980d-d65c0f1044d9)
 
 ![3](https://github.com/Zaharchenko-Tatiana/iOSLab/assets/115603644/ed02b873-f07d-47ce-9c68-1b908ef9605f)
