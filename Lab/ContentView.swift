@@ -5,6 +5,7 @@ struct ContentView: View {
         VStack {
             Header()
             Card()
+            Search()
         }
         Spacer()
         }

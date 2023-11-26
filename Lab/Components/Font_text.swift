@@ -7,6 +7,15 @@
 
 import SwiftUI
 
+struct Font_text_12: View {
+    @State var words: String
+    
+    var body: some View {
+        Text(words)
+            .font(Font.custom("Poppins", size: 12))
+    }
+}
+
 struct Font_text_14: View {
     @State var words: String
     
